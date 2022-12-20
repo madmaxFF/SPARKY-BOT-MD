@@ -14,31 +14,31 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //owmner v card
-global.vcardowner = ['917012984396'] //ganti nomer lu
-global.ownername = "ASWIN SPARKY" //ganti nama lu
-global.developer = "ASWIN" //nama lu
-global.ytname = "YT: SPARKY MON 777" //ur yt chanel name
+global.vcardowner = ['917994827702'] //ganti nomer lu
+global.ownername = "𝐌𝐀𝐃 𝐌𝐀𝐗" //ganti nama lu
+global.developer = "𝐌𝐀𝐃 𝐌𝐀𝐗" //nama lu
+global.ytname = "YT: 𝐌𝐀𝐃 𝐌𝐀𝐗" //ur yt chanel name
 global.socialm = "https://www.instagram.com/aswin_sparky.exe" //taroh sosialmedia lu kalo ga punya biarin aja
 global.sgc = "https://chat.whatsapp.com/JTUrdnOziKD44ScoBoggmh" //ganti group lu
 global.location = "Kerala,TVM,Varkala" //ganti lokasi lu
 
 //bot bomdy 
-global.owner = ['917012984396'] //ur number
-global.ownernomer = "917012984396" //ur number
-global.ownertag = '917012984396' //ur tag number
-global.premium = ['917012984396'] //ur premium number
-global.botname = 'SPARKY MD+' //ur bot name
-global.ownername = "ASWIN SPARKY"
-global.linkz = "https://youtube.com/@sparkymon777" //your theme url which will be displayed on whatsapp
-global.dana = "917012984396"
-global.pulsa = "917012984396"
-global.websitex = "https://youtube.com/@sparkymon777" //ur website to be displayed
+global.owner = ['917994827702'] //ur number
+global.ownernomer = "917994827702" //ur number
+global.ownertag = '917994827702' //ur tag number
+global.premium = ['917994827702'] //ur premium number
+global.botname = '𝐌𝐀𝐃 𝐌𝐀𝐗+' //ur bot name
+global.ownername = "𝐌𝐀𝐃 𝐌𝐀𝐗"
+global.linkz = "https://youtube.com/@𝐌𝐀𝐃 𝐌𝐀𝐗" //your theme url which will be displayed on whatsapp
+global.dana = "917994827702"
+global.pulsa = "917994827702"
+global.websitex = "https://youtube.com/@𝐌𝐀𝐃 𝐌𝐀𝐗" //ur website to be displayed
 global.websitex1 = "https://sparkymodswa.blogspot.com"
 global.botscript = 'https://github.com/Sparkymon777/SPARKY-BOT-MD' //script link
-global.themeemoji = "👀" //ur theme emoji
-global.packname = "S P A R K Y" //ur sticker watermark packname
+global.themeemoji = "❤️" //ur theme emoji
+global.packname = "𝐌𝐀𝐃 𝐌𝐀𝐗" //ur sticker watermark packname
 global.author = "ASWIN" //ur sticker watermark author
-global.wm = "S P A R K Y" //ur watermark
+global.wm = "𝐌𝐀𝐃 𝐌𝐀𝐗" //ur watermark
 
 // Other
 global.sessionName = 'session'
