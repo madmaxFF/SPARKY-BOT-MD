@@ -46,8 +46,8 @@ global.prefa = ['','!','.','#','&']
 global.sp = ''
 global.mess = {
     success: 'Done✓',
-    admin: 'This feature could be used by admins only!',
-    botAdmin: 'Bot Must Be Admin First!',
+    admin: 'This feature could be used by admins only sorry Boss 🙂',
+    botAdmin: 'Sir 😁 plzzz give me admin ♥️!!',
     premime: 'Premium Special Features If You Want to Register Type Rent',
     owner: 'This feature could be used by owner only',
     group: 'Features Used Only For Groups!',
