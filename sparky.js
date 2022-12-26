@@ -1432,11 +1432,11 @@ case 'rate': {
                 if (!m.isGroup) throw mess.group
                 if (!isBotAdmins) throw mess.botAdmin
                 if (!isAdmins) throw mess.admin
-let teks = ` Tag All
+let teks = ` ┗»˙·٠•●♥ Tag All ♥●•٠·˙«╝
  
 *Message:* *❑─( ${q ? q : 'empty'} )─❑*\n\n`
                 for (let mem of participants) {
-                teks += `📍 @${mem.id.split('@')[0]}\n`
+                teks += `🍭 @${mem.id.split('@')[0]}\n`
                 }
                 XeonBotInc.sendMessage(m.chat, { text: teks, mentions: participants.map(a => a.id) }, { quoted: m })
                 }
@@ -1456,7 +1456,7 @@ let teks = ` Tag All
                 let anu = await styletext(text)
                 let teks = `Style Text From ${text}\n\n`
                 for (let i of anu) {
-                    teks += `📍 *${i.name}* : ${i.result}\n\n`
+                    teks += `🍭 *${i.name}* : ${i.result}\n\n`
                 }
                 m.reply(teks)
 	    }
