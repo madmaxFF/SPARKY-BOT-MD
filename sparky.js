@@ -1434,7 +1434,7 @@ case 'rate': {
                 if (!isAdmins) throw mess.admin
 let teks = ` ┗»˙·٠•●♥ Tag All ♥●•٠·˙«╝
  
-*Message:* *❑─( ${q ? q : 'empty'} )─❑*\n\n`
+ ➲ *Message:* *( ${q ? q : 'no message'} *\n\n`
                 for (let mem of participants) {
                 teks += `🍭 @${mem.id.split('@')[0]}\n`
                 }
