@@ -3,7 +3,7 @@
   "version": "1.6.3",
   "description": "SparkyBot, Only update in YouTube",
   "main": "index.js",
-  "license": "MIT",
+  "license": "GPL-3.0",
   "scripts": {
     "start": "node index.js"
    },
