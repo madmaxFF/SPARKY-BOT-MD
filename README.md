@@ -94,4 +94,5 @@ npm i -g pm2 && pm2 start index.js && pm2 save && pm2 logs
 
 ## Special Thanks to
 *[`ANDYMRlIT`](https://github.com/andymrlit)
-*[`SPARKYMON`](https://GitHub.com/sparkymon777)
+*[`SPARKYMON`](https://gitHub.com/sparkymon777)
+*[`MADMAX`](https://GitHub.com/madmaxFF)
